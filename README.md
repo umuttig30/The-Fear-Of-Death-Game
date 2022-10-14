@@ -5,4 +5,6 @@ The book is located near the player now so it will be easier to test the game. A
 
 The blue plus signs are a feature to save the players location at that point when game will be restarted when player collects them.
 
-Note: Maybe some features can't work in the game because of the WebGL format. 
+Note: Maybe some features can't work in the game because of the WebGL format.
+
+Link: https://public.bc.fi/s2200323/WebGL/HorrorGame/
