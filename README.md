@@ -8,4 +8,4 @@ The blue plus signs are a feature to save the players location at that point whe
 Note: Maybe some features can't work in the game because of the WebGL format.
 The game may not should be look very great cosmeticly. I focused more to make many features work.
 
-Link: https://public.bc.fi/s2200323/WebGL/HorrorGame/
+Link: https://public.bc.fi/s2200323/WebGL/The%20Fear%20Of%20Death-Game/
